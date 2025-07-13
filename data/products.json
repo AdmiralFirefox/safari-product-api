@@ -7,7 +7,7 @@
     "category": "clothing",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/1_vr8vma.webp",
     "rating": {
-      "rate": 4.5,
+      "rate": 3.8,
       "count": 134
     }
   },
@@ -19,8 +19,8 @@
     "category": "electronics",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/2_pk99mg.jpg",
     "rating": {
-      "rate": 4.7,
-      "count": 210
+      "rate": 4.9,
+      "count": 310
     }
   },
   {
@@ -31,8 +31,8 @@
     "category": "outdoors",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752413524/3_nnfms3.avif",
     "rating": {
-      "rate": 4.3,
-      "count": 98
+      "rate": 2.4,
+      "count": 45
     }
   },
   {
@@ -43,7 +43,7 @@
     "category": "groceries",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/4_salnff.webp",
     "rating": {
-      "rate": 4.8,
+      "rate": 4.3,
       "count": 156
     }
   },
@@ -55,8 +55,8 @@
     "category": "clothing",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/5_c1daer.jpg",
     "rating": {
-      "rate": 4.6,
-      "count": 87
+      "rate": 4.1,
+      "count": 215
     }
   },
   {
@@ -67,7 +67,7 @@
     "category": "electronics",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/6_pd4gp2.webp",
     "rating": {
-      "rate": 4.2,
+      "rate": 3.2,
       "count": 59
     }
   },
@@ -79,7 +79,7 @@
     "category": "outdoors",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/7_wf8iqf.webp",
     "rating": {
-      "rate": 4.9,
+      "rate": 4.7,
       "count": 212
     }
   },
@@ -91,7 +91,7 @@
     "category": "groceries",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/8_ujs2sl.jpg",
     "rating": {
-      "rate": 4.4,
+      "rate": 2.9,
       "count": 76
     }
   },
@@ -103,7 +103,7 @@
     "category": "clothing",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/9_pgvxhn.webp",
     "rating": {
-      "rate": 4.5,
+      "rate": 3.6,
       "count": 190
     }
   },
@@ -115,7 +115,7 @@
     "category": "outdoors",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/10_hirnrf.jpg",
     "rating": {
-      "rate": 4.6,
+      "rate": 1.8,
       "count": 121
     }
   },
@@ -139,7 +139,7 @@
     "category": "electronics",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/12_exhfez.webp",
     "rating": {
-      "rate": 4.5,
+      "rate": 3.3,
       "count": 88
     }
   },
@@ -151,7 +151,7 @@
     "category": "outdoors",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/13_yjke1o.jpg",
     "rating": {
-      "rate": 4.3,
+      "rate": 1.5,
       "count": 74
     }
   },
@@ -163,7 +163,7 @@
     "category": "groceries",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/14_hsxzrc.webp",
     "rating": {
-      "rate": 4.7,
+      "rate": 4.6,
       "count": 132
     }
   },
@@ -175,7 +175,7 @@
     "category": "clothing",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/15_bpsvnm.jpg",
     "rating": {
-      "rate": 4.6,
+      "rate": 2.7,
       "count": 95
     }
   },
@@ -187,7 +187,7 @@
     "category": "electronics",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/16_gd0s6w.jpg",
     "rating": {
-      "rate": 4.4,
+      "rate": 3.1,
       "count": 147
     }
   },
@@ -199,7 +199,7 @@
     "category": "outdoors",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/17_ggb07u.webp",
     "rating": {
-      "rate": 4.6,
+      "rate": 4.2,
       "count": 112
     }
   },
@@ -223,7 +223,7 @@
     "category": "clothing",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/19_nlypne.webp",
     "rating": {
-      "rate": 4.7,
+      "rate": 3.5,
       "count": 129
     }
   },
@@ -235,7 +235,7 @@
     "category": "groceries",
     "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/20_oazua4.png",
     "rating": {
-      "rate": 4.5,
+      "rate": 2.0,
       "count": 84
     }
   }
