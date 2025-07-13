@@ -1,6 +1,242 @@
 [
-  { "id": 1, "name": "T-shirt", "category": "clothing" },
-  { "id": 2, "name": "Laptop", "category": "electronics" },
-  { "id": 3, "name": "Sneakers", "category": "footwear" },
-  { "id": 4, "name": "Phone", "category": "electronics" }
+  {
+    "id": 1,
+    "title": "Men's Classic Denim Jacket",
+    "price": 49.99,
+    "description": "Crafted from durable denim, this classic jacket features a button-up front, adjustable cuffs, and spacious pockets. A staple for any casual outfit, it pairs well with jeans or chinos for a timeless look.",
+    "category": "clothing",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/1_vr8vma.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 134
+    }
+  },
+  {
+    "id": 2,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 89.95,
+    "description": "Experience high-quality sound with these over-ear Bluetooth headphones. Featuring active noise cancellation, comfortable ear cushions, and up to 40 hours of battery life, they’re perfect for work, travel, or relaxation.",
+    "category": "electronics",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/2_pk99mg.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 210
+    }
+  },
+  {
+    "id": 3,
+    "title": "Camping Sleeping Bag",
+    "price": 39.99,
+    "description": "This all-season sleeping bag is designed for maximum warmth and comfort. It's lightweight, water-resistant, and easy to roll up and carry, making it ideal for camping, hiking, or emergency preparedness.",
+    "category": "outdoors",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/3_j9xgvy.avif",
+    "rating": {
+      "rate": 4.3,
+      "count": 98
+    }
+  },
+  {
+    "id": 4,
+    "title": "Organic Rolled Oats - 1kg",
+    "price": 5.49,
+    "description": "Start your day right with these organic, gluten-free rolled oats. Rich in fiber and protein, they’re perfect for making oatmeal, smoothies, granola, or baked goods. Grown without pesticides or additives.",
+    "category": "groceries",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/4_salnff.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 156
+    }
+  },
+  {
+    "id": 5,
+    "title": "Women's Cotton T-Shirt",
+    "price": 19.99,
+    "description": "This soft, breathable t-shirt is made from 100% premium cotton and features a relaxed fit, crew neckline, and reinforced stitching. Ideal for everyday wear or layering under jackets and cardigans.",
+    "category": "clothing",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/5_c1daer.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 87
+    }
+  },
+  {
+    "id": 6,
+    "title": "Smartphone Tripod with Remote",
+    "price": 24.95,
+    "description": "Capture steady shots and smooth videos with this compact smartphone tripod. It features adjustable legs, a 360° swivel mount, and a Bluetooth remote for hands-free photo and video control.",
+    "category": "electronics",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/6_pd4gp2.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 59
+    }
+  },
+  {
+    "id": 7,
+    "title": "Stainless Steel Water Bottle - 750ml",
+    "price": 15.99,
+    "description": "Stay hydrated with this double-wall insulated stainless steel water bottle. It keeps drinks cold for up to 24 hours and hot for 12, with a leak-proof lid and sweat-free finish for easy handling.",
+    "category": "outdoors",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/7_wf8iqf.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 212
+    }
+  },
+  {
+    "id": 8,
+    "title": "Whole Grain Brown Rice - 2kg",
+    "price": 6.99,
+    "description": "Packed with essential nutrients, this whole grain brown rice is a healthy alternative to white rice. Its slightly nutty flavor and firm texture make it great for stir-fries, salads, and bowls.",
+    "category": "groceries",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/8_ujs2sl.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 76
+    }
+  },
+  {
+    "id": 9,
+    "title": "Men's Running Shoes",
+    "price": 64.99,
+    "description": "Engineered for performance and comfort, these men's running shoes feature breathable mesh uppers, cushioned soles, and excellent grip. Ideal for running, walking, or all-day wear.",
+    "category": "clothing",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/9_pgvxhn.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 190
+    }
+  },
+  {
+    "id": 10,
+    "title": "LED Flashlight - Waterproof",
+    "price": 12.49,
+    "description": "Reliable and compact, this waterproof LED flashlight offers multiple light modes and powerful brightness for outdoor use. Perfect for camping, emergencies, or keeping in your car or bag.",
+    "category": "outdoors",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/10_hirnrf.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 121
+    }
+  },
+  {
+    "id": 11,
+    "title": "Men's Waterproof Hiking Boots",
+    "price": 79.99,
+    "description": "Built for rugged terrain, these hiking boots feature a waterproof exterior, cushioned insole, and reinforced toe for durability and comfort during long treks.",
+    "category": "clothing",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/11_gh3p2g.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 103
+    }
+  },
+  {
+    "id": 12,
+    "title": "Portable Solar Power Bank - 20,000mAh",
+    "price": 34.99,
+    "description": "Charge your devices anywhere with this solar-powered bank. It features dual USB ports, LED light, and a rugged design perfect for travel and emergencies.",
+    "category": "electronics",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/12_exhfez.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 88
+    }
+  },
+  {
+    "id": 13,
+    "title": "4-Person Pop-Up Camping Tent",
+    "price": 89.95,
+    "description": "This easy-setup tent comfortably fits up to 4 people. It features weather-resistant materials, mesh ventilation windows, and a zippered door for privacy and airflow.",
+    "category": "outdoors",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/13_yjke1o.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 74
+    }
+  },
+  {
+    "id": 14,
+    "title": "Natural Peanut Butter - 500g",
+    "price": 4.25,
+    "description": "Made from 100% roasted peanuts with no added sugar or oil, this creamy peanut butter is a protein-rich spread perfect for toast, smoothies, or baking.",
+    "category": "groceries",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407876/14_hsxzrc.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 132
+    }
+  },
+  {
+    "id": 15,
+    "title": "Women's Lightweight Jogger Pants",
+    "price": 29.99,
+    "description": "These jogger pants combine style and comfort with their tapered fit, elastic waistband, and breathable fabric. Ideal for casual wear, workouts, or lounging.",
+    "category": "clothing",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/15_bpsvnm.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 95
+    }
+  },
+  {
+    "id": 16,
+    "title": "USB-C Multiport Adapter Hub",
+    "price": 27.99,
+    "description": "Expand your laptop’s capabilities with this 6-in-1 USB-C hub, including HDMI, USB 3.0 ports, SD card reader, and power delivery for efficient multitasking.",
+    "category": "electronics",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/16_gd0s6w.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 147
+    }
+  },
+  {
+    "id": 17,
+    "title": "Foldable Camping Chair with Cup Holder",
+    "price": 22.95,
+    "description": "Relax outdoors with this foldable chair featuring a durable steel frame, comfortable armrests, and a built-in cup holder. Great for camping, sports, and beach trips.",
+    "category": "outdoors",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/17_ggb07u.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 112
+    }
+  },
+  {
+    "id": 18,
+    "title": "Organic Extra Virgin Olive Oil - 1L",
+    "price": 9.99,
+    "description": "Cold-pressed and rich in antioxidants, this organic extra virgin olive oil is perfect for salads, sautéing, or dipping. A heart-healthy pantry essential.",
+    "category": "groceries",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/18_kcyga9.avif",
+    "rating": {
+      "rate": 4.8,
+      "count": 165
+    }
+  },
+  {
+    "id": 19,
+    "title": "Unisex Fleece Zip-Up Hoodie",
+    "price": 34.5,
+    "description": "Stay warm and stylish with this ultra-soft fleece hoodie. It features a full zip, drawstring hood, and front pockets for added warmth and convenience.",
+    "category": "clothing",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407877/19_nlypne.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 129
+    }
+  },
+  {
+    "id": 20,
+    "title": "Cruncy Oat Granola Cereal - 750g",
+    "price": 6.45,
+    "description": "A hearty breakfast mix of rolled oats, almonds, raisins, and dried cranberries. This granola is packed with nutrients and lightly sweetened with honey.",
+    "category": "groceries",
+    "image": "https://res.cloudinary.com/dqlwmnxzv/image/upload/v1752407878/20_oazua4.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 84
+    }
+  }
 ]
